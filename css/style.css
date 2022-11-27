@@ -1,0 +1,65 @@
+body{
+    background-color: green;
+}
+
+.back_c{
+    background-color: aqua;
+}
+.b_h{
+    background-color: #626262;
+    color: black;
+}
+.h_1{
+    background-color: aqua;
+    padding-top: 20px;
+    overflow: hidden;
+}
+.h_a{
+    color: rgb(235, 45, 11);
+    float: left; 
+}
+.h_b{
+    float: right;
+}
+.f_t{
+    float: left; 
+}
+.b_c{
+    background-color: aqua;
+    min-height: 100px;
+}
+.text{
+    font-size: 20px;
+    color: #0c0c0c;
+    float: left;
+}
+.menu{
+    color:#0e0e0d;
+    overflow: hidden;
+    width: 60%;
+    float: right;
+}
+.menu ul{
+
+}
+.menu ul li{
+    list-style: none;
+    float: left;
+    color:#b2b0ae;
+}
+.menu ul li a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 100px;
+    font-family:'Playfair Display', serif;
+    font-size: 20px;
+    color:#0c0c0c; 
+}
+.menu ul li :last-child{
+    padding-right: 0;
+}
+.menu ul li a:hover{
+    color:#c70a0a;
+}
+
+
